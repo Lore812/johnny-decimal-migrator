@@ -1,0 +1,10 @@
+# File generati dall'app durante l'uso: contengono percorsi personali,
+# non vanno mai condivisi nel repository.
+migrator_config.json
+migration_log.csv
+
+# File di sistema/Python comuni
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
