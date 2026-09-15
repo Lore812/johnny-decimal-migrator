@@ -1,5 +1,7 @@
 # Johnny.Decimal Migrator
 
+![Demo dell'app](jhonny_decimal_migrator.gif)
+ 
 Local desktop app with a graphical interface to help you sort files
 scattered around your computer into a folder structure organized with the
 [Johnny.Decimal](https://johnnydecimal.com/) method.
